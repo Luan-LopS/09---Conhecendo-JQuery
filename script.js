@@ -7,7 +7,7 @@ $(document).ready(function(){
         $('form').slideDown()
     })
 
-    $('#button-cancelar').click(function(){
+    $('#botao-cancelar').click(function(){
         $('form').slideUp()
     })
 
